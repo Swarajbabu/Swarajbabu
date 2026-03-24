@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20Certified-Data%20Platform%202025-F80000?style=flat&logo=oracle&logoColor=white" />
+  
 </p>
 
 </div>

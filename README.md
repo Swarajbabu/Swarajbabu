@@ -223,34 +223,6 @@ const swaraj = {
   </picture>
 </div>
 
-> **⚠️ Setup note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v3
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -259,18 +231,7 @@ const swaraj = {
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/swarajvecha" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/swarajvecha" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/swarajvecha" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-&nbsp;
+
 <a href="https://www.geeksforgeeks.org/user/swarajvecha/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
@@ -286,9 +247,11 @@ const swaraj = {
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
 | 🔴 | Oracle Data Platform 2025 Certified Foundations Associate | Oracle | Mar 2026 |
+| 🟥 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle | Mar 2026 |
 | 🤖 | Build Generative AI Apps with No-Code Tools | Udemy | Aug 2025 |
 | 💬 | Build Your Own Chatbot | IBM / Coursera | Jan 2025 |
 | 📡 | Introduction to Internet of Things | NPTEL | Oct 2025 |
+
 
 ---
 

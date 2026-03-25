@@ -191,9 +191,9 @@ const swaraj = {
 
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Swarajbabu&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swarajbabu&theme=tokyonight&hide_border=true" />
+</p> -->
 
 ---
 
@@ -205,13 +205,6 @@ const swaraj = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swarajbabu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -300,9 +293,11 @@ const swaraj = {
 
 ## 👀 Visitor Counter
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Swarajbabu&icon=6&color=6&label=Profile%20Views" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swarajbabu&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Swarajbabu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 

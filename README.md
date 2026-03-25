@@ -235,7 +235,6 @@ const swaraj = {
 
 </div>
 
-> **📌 Note:** Update the links above with your actual profile usernames on each platform. Solved 100+ problems across Arrays, Strings, Trees, Graphs & more — ranked top 15% in cohort by speed & efficiency.
 
 ---
 

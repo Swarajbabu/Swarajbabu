@@ -82,13 +82,17 @@ const swaraj = {
 ![NLP](https://img.shields.io/badge/NLP%20APIs-00897B?style=for-the-badge&logo=dialogflow&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+## 🔭 Exploring Next
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ---
 
 ## 📌 Featured Projects
@@ -119,7 +123,7 @@ const swaraj = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI Personal Assistant (n8n)</h3>
+      <h3>🚀 🤖 AI Personal Assistant (n8n)</h3>
       <a href="https://github.com/Swarajbabu/Personal-Assistant-with-n8n">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Personal-Assistant-with-n8n&theme=tokyonight&hide_border=true" width="100%"/>
       </a>
@@ -139,7 +143,7 @@ const swaraj = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI Mock Interview Platform</h3>
+      <h3>🧠 AI Mock Interview Platform  — Currently Building </h3>
       <p><em>Resume-verified project · Full-Stack AI Product</em></p>
       <p>
         End-to-end AI interview platform ingesting CVs + JDs via REST APIs, generating role-specific questions via LLM pipelines, and running real-time voice/video interviews. NLP scoring engine evaluates across <strong>5 dimensions</strong>. n8n automates scheduling and feedback delivery — cutting operational overhead by ~80%.
@@ -301,9 +305,16 @@ const swaraj = {
 
 ---
 
+  <!-- Add a tech stack visualization -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,postman,firebase" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
+
+
+
   <p><i>"Ship fast. Learn faster. Build things people use."</i></p>
   
   <p>⭐ <strong>If you find my work valuable, consider starring a repo!</strong> ⭐</p>

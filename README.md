@@ -232,6 +232,11 @@ const swaraj = {
 <a href="https://www.geeksforgeeks.org/user/swarajvecha/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
+&nbsp;
+
+<a href="https://www.hackerrank.com/profile/syamalaswaraj" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
 
 </div>
 

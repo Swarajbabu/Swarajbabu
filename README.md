@@ -11,10 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=Swarajbabu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/Swarajbabu?tab=followers">
-    <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=flat&color=0e75b6&cacheSeconds=3600" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  
+  <a href="https://github.com/Swarajbabu?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSwarajbabu&color=ffd700&style=flat" alt="Total Stars"/>
+  </a>
 </p>
 
 </div>
@@ -93,6 +95,7 @@ const swaraj = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 ---
 
 ## 📌 Featured Projects
@@ -195,10 +198,6 @@ const swaraj = {
 
 </div>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swarajbabu&theme=tokyonight&hide_border=true" />
-</p> -->
-
 ---
 
 ## 📈 Contribution Graph
@@ -208,7 +207,6 @@ const swaraj = {
 </div>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
@@ -240,7 +238,6 @@ const swaraj = {
 
 </div>
 
-
 ---
 
 ## 🎓 Certifications
@@ -252,7 +249,6 @@ const swaraj = {
 | 🤖 | Build Generative AI Apps with No-Code Tools | Udemy | Aug 2025 |
 | 💬 | Build Your Own Chatbot | IBM / Coursera | Jan 2025 |
 | 📡 | Introduction to Internet of Things | NPTEL | Oct 2025 |
-
 
 ---
 
@@ -309,15 +305,12 @@ const swaraj = {
 
 ---
 
-  <!-- Add a tech stack visualization -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,postman,firebase" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-
 
   <p><i>"Ship fast. Learn faster. Build things people use."</i></p>
   

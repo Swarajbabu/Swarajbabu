@@ -150,10 +150,10 @@ const swaraj = {
     <td width="50%" valign="top">
       <h3>🎬 movie-booking-app</h3>
       <a href="https://github.com/Swarajbabu/movie-booking-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=movie-booking-app&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/movie-booking-app.png" width="100%"/>
       </a>
       <p>
-        Full-stack movie ticket booking app with <strong>live seat locking</strong> via Socket.IO. Features Google OAuth + JWT auth, QR code tickets, real-time Convex DB, and an admin dashboard.
+Real-time Movie Ticket Booking Web App built with React, Convex, Node.js, Socket.IO & TailwindCSS. Supports live seat locking, Google OAuth & JWT authentication, QR code tickets, and an admin dashboard for managing movies, theatres, and showtimes.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -173,10 +173,10 @@ const swaraj = {
     <td width="50%" valign="top">
       <h3>🧳 Wanderlust-Travel-Stay-Booking-Application</h3>
       <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Wanderlust-Travel-Stay-Booking-Application&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/wanderlust.png" width="100%"/>
       </a>
       <p>
-        Full-stack travel & stay booking platform — browse listings, manage reservations, and handle user accounts end-to-end.
+       A full-stack vacation rental booking platform built with Node.js, Express.js, MongoDB, and EJS, featuring property listings, authentication, reviews, image uploads, and responsive design.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -193,10 +193,10 @@ const swaraj = {
     <td width="50%" valign="top">
       <h3>📋 Project-Management-System</h3>
       <a href="https://github.com/Swarajbabu/Project-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Project-Management-System&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/project-management.png" width="100%"/>
       </a>
       <p>
-        A system to plan, assign, and track project tasks, deadlines, and team progress in one place.
+        A full-stack Agile Project Management System with authentication, sprint planning, task tracking, role-based access control, dashboards, and REST APIs.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -210,10 +210,10 @@ const swaraj = {
     <td width="50%" valign="top">
       <h3>🔗 URL-SHORTENER</h3>
       <a href="https://github.com/Swarajbabu/URL-SHORTENER">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=URL-SHORTENER&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/url-shortener.png" width="100%"/>
       </a>
       <p>
-        A URL shortening service that converts long links into short, shareable ones with redirect handling.
+       QuickLink is a scalable MERN-based URL Shortener with DevOps automation using Docker, Jenkins CI/CD, Kubernetes (EKS), AWS ECR, Prometheus, and Grafana.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -233,9 +233,9 @@ const swaraj = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Swarajbabu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Swarajbabu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarajbabu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Swarajbabu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
 
 </div>
 

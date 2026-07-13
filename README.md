@@ -55,21 +55,39 @@ const swaraj = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+</div>
+
+<table width="100%">
+<tr>
+<td width="18%"><b>💻 Languages</b></td>
+<td width="82%">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🎨 Frontend
+</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Databases
+</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend & DB</b></td>
+<td>
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -77,18 +95,48 @@ const swaraj = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🤖 AI / ML & Automation
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI / ML & Automation</b></td>
+<td>
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP%20APIs-00897B?style=for-the-badge&logo=dialogflow&logoColor=white)
 
-### ☁️ Cloud & DevOps
+</td>
+</tr>
+<tr>
+<td><b>📊 Data Science</b></td>
+<td>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>☁️ Cloud & DevOps</b></td>
+<td>
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+</div>
 
 ## 🔭 Exploring Next
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -96,19 +144,17 @@ const swaraj = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
----
-
 ## 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 CineBook — Real-Time Movie Booking</h3>
+      <h3>🎬 movie-booking-app</h3>
       <a href="https://github.com/Swarajbabu/movie-booking-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=movie-booking-app&theme=tokyonight&hide_border=true" width="100%"/>
       </a>
       <p>
-        Full-stack movie ticket booking app with <strong>live seat locking</strong> via Socket.IO. Features Google OAuth + JWT auth, QR code tickets, real-time Convex DB, and an admin dashboard. Deployed on Vercel + Render.
+        Full-stack movie ticket booking app with <strong>live seat locking</strong> via Socket.IO. Features Google OAuth + JWT auth, QR code tickets, real-time Convex DB, and an admin dashboard.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -126,61 +172,57 @@ const swaraj = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 🤖 AI Personal Assistant (n8n)</h3>
-      <a href="https://github.com/Swarajbabu/Personal-Assistant-with-n8n">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Personal-Assistant-with-n8n&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>🧳 Wanderlust-Travel-Stay-Booking-Application</h3>
+      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Wanderlust-Travel-Stay-Booking-Application&theme=tokyonight&hide_border=true" width="100%"/>
       </a>
       <p>
-        AI-powered assistant living inside <strong>Telegram</strong>. Handles text & voice, manages emails, schedules calendar events, and integrates with Google Sheets — all automated via n8n workflows.
+        Full-stack travel & stay booking platform — browse listings, manage reservations, and handle user accounts end-to-end.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram%20API-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
       </p>
-      <a href="https://github.com/Swarajbabu/Personal-Assistant-with-n8n">
+      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI Mock Interview Platform  — Currently Building </h3>
-      <p><em>Resume-verified project · Full-Stack AI Product</em></p>
-      <p>
-        End-to-end AI interview platform ingesting CVs + JDs via REST APIs, generating role-specific questions via LLM pipelines, and running real-time voice/video interviews. NLP scoring engine evaluates across <strong>5 dimensions</strong>. n8n automates scheduling and feedback delivery — cutting operational overhead by ~80%.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP%20APIs-00897B?style=flat"/>
-        <img src="https://img.shields.io/badge/Speech%20AI-FF6F00?style=flat"/>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat"/>
-        <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-      </p>
-      <p>⚡ <strong>Sub-2s AI avatar response latency</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Portfolio Platform</h3>
-      <a href="https://github.com/Swarajbabu/portfoliowebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=portfoliowebsite&theme=tokyonight&hide_border=true" width="100%"/>
+      <h3>📋 Project-Management-System</h3>
+      <a href="https://github.com/Swarajbabu/Project-Management-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=Project-Management-System&theme=tokyonight&hide_border=true" width="100%"/>
       </a>
       <p>
-        Modern portfolio with a <strong>secure admin panel</strong> for managing all content — projects, skills, contact — in real-time. Built with React, Express, Convex, and TailwindCSS.
+        A system to plan, assign, and track project tasks, deadlines, and team progress in one place.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express"/>
-        <img src="https://img.shields.io/badge/Convex-F26522?style=flat"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/portfoliowebsite">
+      <a href="https://github.com/Swarajbabu/Project-Management-System">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
-      &nbsp;
-      <a href="https://swarajvecha.in/">
-        <img src="https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 URL-SHORTENER</h3>
+      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarajbabu&repo=URL-SHORTENER&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+      <p>
+        A URL shortening service that converts long links into short, shareable ones with redirect handling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>

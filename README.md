@@ -27,7 +27,7 @@
 
 > CSE undergraduate @ Lovely Professional University · Shipping real-world full-stack products since 2024 · Obsessed with AI-powered apps, real-time systems, and clean code that actually works.
 
-I don't just learn tech — I **build** with it. From a real-time movie booking platform with live seat locking to an AI interview system that evaluates candidates across 5 dimensions, every project I touch is production-minded, end-to-end, and backed by measurable results.
+I don't just learn tech — I **build** with it. From a real-time trading platform streaming 95 NSE stocks to a labor-marketplace with live GPS dispatch, every project I touch is production-minded, end-to-end, and backed by measurable results.
 
 ---
 
@@ -37,7 +37,7 @@ I don't just learn tech — I **build** with it. From a real-time movie booking 
 const swaraj = {
   location:     "Punjab, India (LPU) 📍",
   education:    "B.Tech CSE @ LPU | CGPA: 7.39 | 2023–2027",
-  focus:        ["Full-Stack Development", "AI/LLM Integration", "Real-Time Systems"],
+  focus:        ["Full-Stack Development", "AI/LLM Integration", "Real-Time Systems", "DevOps"],
   currentlyOn:  "Building AI-powered products with React + Node + n8n workflows",
   superpower:   "Taking a project from zero → deployed, end-to-end, solo",
   portfolio:    "https://swarajvecha.in/",
@@ -47,15 +47,14 @@ const swaraj = {
 
 - 🏆 **Top tier** at AP MSME Digital Empowerment Challenge 2025 — 2,000+ participants
 - 🎯 **Selected presenter** at LPU Innovation Hackathon — 500+ competing teams
-- 🤖 Built an AI Mock Interview Platform with **sub-2s avatar response latency** end-to-end
-- 🎬 Built CineBook — a live movie ticket booking app with **real-time seat locking via Socket.IO**
+- 📈 Built **TradeX**, a trading platform streaming real-time data for **95 NSE stocks**
+- 🎬 Built **CineBook** — live movie ticket booking with **real-time seat locking via Socket.IO**
+- ☁️ Shipped **QuickLink** with a full 6-stage Jenkins → Terraform → AWS EKS CI/CD pipeline
 - 📊 Ranked **top 15%** in DSA cohort after 120+ hours of intensive training
 
 ---
 
 ## 🛠️ Tech Stack
-
-
 
 <table width="100%">
 <tr>
@@ -90,6 +89,7 @@ const swaraj = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -122,6 +122,13 @@ const swaraj = {
 <td><b>☁️ Cloud & DevOps</b></td>
 <td>
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -130,37 +137,110 @@ const swaraj = {
 
 </td>
 </tr>
-
-<td><b>🔭 Exploring Next</b></td>
-<td>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</td>
-</tr>
 </table>
+
+---
 
 ## 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 movie-booking-app</h3>
-      <a href="https://github.com/Swarajbabu/movie-booking-app">
-        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/movie-booking-app.png" width="100%"/>
-      </a>
+      <h3>🧳 Wanderlust — Travel Stay Booking</h3>
+      <p><i>Cloud & Full Stack · Jun 2025</i></p>
       <p>
-Real-time Movie Ticket Booking Web App built with React, Convex, Node.js, Socket.IO & TailwindCSS. Supports live seat locking, Google OAuth & JWT authentication, QR code tickets, and an admin dashboard for managing movies, theatres, and showtimes.
+Architected a full-stack, scalable rental booking platform with Cloudinary & Mapbox API integration, automated CI/CD, and cloud deployment. 10+ RESTful CRUD endpoints for listings, media uploads & reviews — containerized with Docker and provisioned on AWS EKS via Terraform IaC.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 TradeX — Zerodha-Inspired Trading Platform</h3>
+      <p><i>Fintech & Real-Time Trading · Jul 2026</i></p>
+      <p>
+Engineered a high-performance stock trading platform with 12 RESTful API endpoints for authentication, orders, holdings, positions & fund management. Real-time market streaming for 95 NSE stocks via parallel data pipelines, with an atomic transactional order-processing engine.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/TradeX">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ WorkHive — Labor Cooperative Marketplace</h3>
+      <p><i>Full Stack · 2026</i></p>
+      <p>
+Full-stack, multi-role platform connecting informal trade workers (electricians, plumbers, carpenters, caregivers) with customers through democratic ownership & KYC verification. Live GPS fleet telemetry with a smart-match dispatch algorithm optimizing on proximity, plus a three-role portal system (Admin / Worker / Customer) with 7-day session auth.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/WorkHive">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 QuickCodeAI — GPT Conversational Coding Platform</h3>
+      <p><i>AI & Generative Models · Feb 2025</i></p>
+      <p>
+Scalable AI-driven conversational web app using OpenAI APIs and MongoDB with real-time prompt handling, context-aware responses & markdown code rendering. 7 structured RESTful API routes for multi-thread chat history, with an interactive chat UI featuring syntax-highlighted code blocks and streaming responses.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/QuickCodeAI-GPT">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 QuickLink — Cloud-Native URL Shortener</h3>
+      <p><i>Full Stack & DevOps · 2026</i></p>
+      <p>
+Enterprise-grade MERN URL shortener with real-time click analytics, deployed on AWS EKS with a fully automated Jenkins CI/CD pipeline & Prometheus/Grafana monitoring. Three-tier architecture (Nginx reverse proxy, containerized React/Node services & MongoDB) with a six-stage Jenkins pipeline deploying to Terraform-provisioned AWS EKS and HPA auto-scaling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 CineBook — Real-Time Movie Ticket Booking</h3>
+      <p><i>Full Stack · 2026</i></p>
+      <p>
+Full-stack movie ticket booking platform with live seat locking, Google OAuth & JWT auth, QR code tickets, and an admin dashboard for managing movies, theatres & showtimes. Real-time seat locking via Socket.IO with auto-expiring 5-minute holds to prevent double-booking, backed by a dual-auth role-based access system.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io"/>
         <img src="https://img.shields.io/badge/Convex-F26522?style=flat"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
       </p>
       <a href="https://github.com/Swarajbabu/movie-booking-app">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
@@ -170,62 +250,46 @@ Real-time Movie Ticket Booking Web App built with React, Convex, Node.js, Socket
         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧳 Wanderlust-Travel-Stay-Booking-Application</h3>
-      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
-        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/wanderlust.png" width="100%"/>
-      </a>
-      <p>
-       A full-stack vacation rental booking platform built with Node.js, Express.js, MongoDB, and EJS, featuring property listings, authentication, reviews, image uploads, and responsive design.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
-      </p>
-      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📋 Project-Management-System</h3>
-      <a href="https://github.com/Swarajbabu/Project-Management-System">
-        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/project-management.png" width="100%"/>
-      </a>
-      <p>
-        A full-stack Agile Project Management System with authentication, sprint planning, task tracking, role-based access control, dashboards, and REST APIs.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Swarajbabu/Project-Management-System">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 URL-SHORTENER</h3>
-      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
-        <img src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/main/assets/screenshots/url-shortener.png" width="100%"/>
-      </a>
-      <p>
-       QuickLink is a scalable MERN-based URL Shortener with DevOps automation using Docker, Jenkins CI/CD, Kubernetes (EKS), AWS ECR, Prometheus, and Grafana.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
-      </p>
-      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
-        <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
   </tr>
 </table>
+
+---
+
+## 📚 Learning & Practice Repos
+
+<div align="center">
+
+<a href="https://github.com/Swarajbabu/DSA-PRACTICE">
+  <img src="https://img.shields.io/badge/DSA%20Practice-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Swarajbabu/SQL_LEARNING">
+  <img src="https://img.shields.io/badge/SQL%20Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Swarajbabu/DevOps-Learning">
+  <img src="https://img.shields.io/badge/DevOps%20Practice-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Swarajbabu/MERN-Practice">
+  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Practice-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Swarajbabu/Coding-Practice">
+  <img src="https://img.shields.io/badge/Coding%20Practice-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+| Repo | Focus |
+|------|-------|
+| [DSA-PRACTICE](https://github.com/Swarajbabu/DSA-PRACTICE) | Data structures & algorithms in C++ — following a structured 45-day roadmap, top 15% in DSA cohort |
+| [SQL_LEARNING](https://github.com/Swarajbabu/SQL_LEARNING) | SQL fundamentals, query practice & database design exercises |
+| [DevOps-Learning](https://github.com/Swarajbabu/DevOps-Learning) | Docker, Kubernetes, Jenkins CI/CD, Terraform IaC, and cloud deployment practice |
+| [MERN-Practice](https://github.com/Swarajbabu/MERN-Practice) | Full-stack MongoDB/Express/React/Node build-alongs and mini projects |
+| [Coding-Practice](https://github.com/Swarajbabu/Coding-Practice) | General problem-solving, competitive programming & interview-prep coding |
+
+> ⚠️ Some learning-repo links above use standard naming based on my GitHub — double-check they match your actual repo slugs and rename if needed.
 
 ---
 
@@ -267,12 +331,10 @@ Real-time Movie Ticket Booking Web App built with React, Convex, Node.js, Socket
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-
 <a href="https://www.geeksforgeeks.org/user/swarajvecha/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
-
 <a href="https://www.hackerrank.com/profile/syamalaswaraj" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
 </a>
@@ -347,7 +409,7 @@ Real-time Movie Ticket Booking Web App built with React, Convex, Node.js, Socket
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,postman,firebase,docker,kubernetes,aws" />
 </div>
 
 <div align="center">

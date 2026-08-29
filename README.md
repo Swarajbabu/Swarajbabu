@@ -1,20 +1,22 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vecha%20Laxmi%20Swaraj%20Babu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vecha%20Laxmi%20Swaraj%20Babu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI+%26+LLM+Integration+Engineer;Real-Time+Apps+with+Socket.IO+%2B+Convex;Building+products+that+actually+ship+%F0%9F%9A%80" target="_blank" rel="noopener noreferrer">![Typing SVG</a>](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI+%26+LLM+Integration+Engineer;Real-Time+Apps+with+Socket.IO+%2B+Convex;Building+products+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<p>
+<!-- PROFILE VIEWS | FOLLOWERS | TOTAL STARS -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Swarajbabu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/Swarajbabu?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=flat&color=0e75b6&cacheSeconds=3600" alt="GitHub Followers"/>
+  <a href="https://github.com/Swarajbabu?tab=followers">
+    <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Swarajbabu?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Swarajbabu?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSwarajbabu&color=ffd700&style=flat" alt="Total Stars"/>
   </a>
 </p>

@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vecha%20Laxmi%20Swaraj%20Babu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI+%26+LLM+Integration+Engineer;Real-Time+Apps+with+Socket.IO+%2B+Convex;Building+products+that+actually+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI+%26+LLM+Integration+Engineer;Real-Time+Apps+with+Socket.IO+%2B+Convex;Building+products+that+actually+ship+%F0%9F%9A%80" target="_blank" rel="noopener noreferrer">![Typing SVG</a>](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Swarajbabu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/Swarajbabu?tab=followers">
+  <a href="https://github.com/Swarajbabu?tab=followers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/Swarajbabu?label=Followers&style=flat&color=0e75b6&cacheSeconds=3600" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Swarajbabu?tab=repositories">
+  <a href="https://github.com/Swarajbabu?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSwarajbabu&color=ffd700&style=flat" alt="Total Stars"/>
   </a>
 </p>
@@ -158,7 +158,7 @@ Architected a full-stack, scalable rental booking platform with Cloudinary & Map
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application">
+      <a href="https://github.com/Swarajbabu/Wanderlust-Travel-Stay-Booking-Application" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -174,7 +174,7 @@ Engineered a high-performance stock trading platform with 12 RESTful API endpoin
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/TradeX">
+      <a href="https://github.com/Swarajbabu/TradeX" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -192,7 +192,7 @@ Full-stack, multi-role platform connecting informal trade workers (electricians,
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/WorkHive">
+      <a href="https://github.com/Swarajbabu/WorkHive" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -208,7 +208,7 @@ Scalable AI-driven conversational web app using OpenAI APIs and MongoDB with rea
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/QuickCodeAI-GPT">
+      <a href="https://github.com/Swarajbabu/QuickCodeAI-GPT" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -226,7 +226,7 @@ Enterprise-grade MERN URL shortener with real-time click analytics, deployed on 
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
       </p>
-      <a href="https://github.com/Swarajbabu/URL-SHORTENER">
+      <a href="https://github.com/Swarajbabu/URL-SHORTENER" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -242,11 +242,11 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io"/>
         <img src="https://img.shields.io/badge/Convex-F26522?style=flat"/>
       </p>
-      <a href="https://github.com/Swarajbabu/movie-booking-app">
+      <a href="https://github.com/Swarajbabu/movie-booking-app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
       &nbsp;
-      <a href="https://movie-booking-app-delta.vercel.app">
+      <a href="https://movie-booking-app-delta.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
       </a>
     </td>
@@ -259,23 +259,23 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
 
 <div align="center">
 
-<a href="https://github.com/Swarajbabu/DSA-PRACTICE">
+<a href="https://github.com/Swarajbabu/DSA-PRACTICE" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DSA%20Practice-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Swarajbabu/SQL_LEARNING">
+<a href="https://github.com/Swarajbabu/SQL_LEARNING" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/SQL%20Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Swarajbabu/DevOps-Learning">
+<a href="https://github.com/Swarajbabu/DevOps-Learning" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DevOps%20Practice-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Swarajbabu/MERN-Practice">
+<a href="https://github.com/Swarajbabu/MERN-Practice" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Practice-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Swarajbabu/Coding-Practice">
+<a href="https://github.com/Swarajbabu/Coding-Practice" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coding%20Practice-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -283,11 +283,11 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
 
 | Repo | Focus |
 |------|-------|
-| [DSA-PRACTICE](https://github.com/Swarajbabu/DSA-PRACTICE) | Data structures & algorithms in C++ — following a structured 45-day roadmap, top 15% in DSA cohort |
-| [SQL_LEARNING](https://github.com/Swarajbabu/SQL_LEARNING) | SQL fundamentals, query practice & database design exercises |
-| [DevOps-Learning](https://github.com/Swarajbabu/DevOps-Learning) | Docker, Kubernetes, Jenkins CI/CD, Terraform IaC, and cloud deployment practice |
-| [MERN-Practice](https://github.com/Swarajbabu/MERN-Practice) | Full-stack MongoDB/Express/React/Node build-alongs and mini projects |
-| [Coding-Practice](https://github.com/Swarajbabu/Coding-Practice) | General problem-solving, competitive programming & interview-prep coding |
+| <a href="https://github.com/Swarajbabu/DSA-PRACTICE" target="_blank" rel="noopener noreferrer">DSA-PRACTICE</a> | Data structures & algorithms in C++ — following a structured 45-day roadmap, top 15% in DSA cohort |
+| <a href="https://github.com/Swarajbabu/SQL_LEARNING" target="_blank" rel="noopener noreferrer">SQL_LEARNING</a> | SQL fundamentals, query practice & database design exercises |
+| <a href="https://github.com/Swarajbabu/DevOps-Learning" target="_blank" rel="noopener noreferrer">DevOps-Learning</a> | Docker, Kubernetes, Jenkins CI/CD, Terraform IaC, and cloud deployment practice |
+| <a href="https://github.com/Swarajbabu/MERN-Practice" target="_blank" rel="noopener noreferrer">MERN-Practice</a> | Full-stack MongoDB/Express/React/Node build-alongs and mini projects |
+| <a href="https://github.com/Swarajbabu/Coding-Practice" target="_blank" rel="noopener noreferrer">Coding-Practice</a> | General problem-solving, competitive programming & interview-prep coding |
 
 > ⚠️ Some learning-repo links above use standard naming based on my GitHub — double-check they match your actual repo slugs and rename if needed.
 

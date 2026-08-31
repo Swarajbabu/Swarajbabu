@@ -38,7 +38,7 @@ I don't just learn tech — I **build** with it. From a real-time trading platfo
 ```javascript
 const swaraj = {
   location:     "Punjab, India (LPU) 📍",
-  education:    "B.Tech CSE @ LPU | CGPA: 7.39 | 2023–2027",
+  education:    "B.Tech CSE @ LPU | CGPA: 7.49 | 2023–2027",
   focus:        ["Full-Stack Development", "AI/LLM Integration", "Real-Time Systems", "DevOps"],
   currentlyOn:  "Building AI-powered products with React + Node + n8n workflows",
   superpower:   "Taking a project from zero → deployed, end-to-end, solo",

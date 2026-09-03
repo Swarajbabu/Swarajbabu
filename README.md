@@ -277,21 +277,8 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
   <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Practice-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Swarajbabu/Coding-Practice" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Coding%20Practice-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
 </div>
-
-| Repo | Focus |
-|------|-------|
-| <a href="https://github.com/Swarajbabu/DSA-PRACTICE" target="_blank" rel="noopener noreferrer">DSA-PRACTICE</a> | Data structures & algorithms in C++ — following a structured 45-day roadmap, top 15% in DSA cohort |
-| <a href="https://github.com/Swarajbabu/SQL_LEARNING" target="_blank" rel="noopener noreferrer">SQL_LEARNING</a> | SQL fundamentals, query practice & database design exercises |
-| <a href="https://github.com/Swarajbabu/DevOps-Learning" target="_blank" rel="noopener noreferrer">DevOps-Learning</a> | Docker, Kubernetes, Jenkins CI/CD, Terraform IaC, and cloud deployment practice |
-| <a href="https://github.com/Swarajbabu/MERN-Practice" target="_blank" rel="noopener noreferrer">MERN-Practice</a> | Full-stack MongoDB/Express/React/Node build-alongs and mini projects |
-| <a href="https://github.com/Swarajbabu/Coding-Practice" target="_blank" rel="noopener noreferrer">Coding-Practice</a> | General problem-solving, competitive programming & interview-prep coding |
-
-> ⚠️ Some learning-repo links above use standard naming based on my GitHub — double-check they match your actual repo slugs and rename if needed.
 
 ---
 

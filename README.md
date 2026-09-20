@@ -294,23 +294,6 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarajbabu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/output/github-snake.svg"/>
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Swarajbabu/Swarajbabu/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
 
 ## 💻 Coding Profiles
 
@@ -398,7 +381,7 @@ Full-stack movie ticket booking platform with live seat locking, Google OAuth & 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,postman,firebase,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,cpp,tailwind,git,github,vscode,docker,kubernetes,aws" />
 </div>
 
 <div align="center">
